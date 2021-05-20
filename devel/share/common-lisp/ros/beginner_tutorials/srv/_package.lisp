@@ -1,0 +1,15 @@
+(cl:defpackage beginner_tutorials-srv
+  (:use )
+  (:export
+   "ADDTOINTS"
+   "<ADDTOINTS-REQUEST>"
+   "ADDTOINTS-REQUEST"
+   "<ADDTOINTS-RESPONSE>"
+   "ADDTOINTS-RESPONSE"
+   "ADDTWOINTS"
+   "<ADDTWOINTS-REQUEST>"
+   "ADDTWOINTS-REQUEST"
+   "<ADDTWOINTS-RESPONSE>"
+   "ADDTWOINTS-RESPONSE"
+  ))
+
